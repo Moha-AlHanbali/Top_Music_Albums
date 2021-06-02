@@ -1,0 +1,106 @@
+.MainBanner
+{
+background-color: #726334;
+margin-left: 200px;
+margin-top: -50px;
+margin-right: -10px;
+height: 150px;
+
+}
+#PageTitle {
+color: white ;
+text-align: center;
+margin-top: 50px;
+position:absolute 50%;
+line-height: 100%;
+font-size: 48px;
+}
+
+#logo{
+  width: 125px;
+  height: 125px;
+  padding: 80px 0px 0px 40px;
+}
+
+
+.SideBar
+{
+background: #292826;
+margin-top: -200px;
+padding: 0;
+width: 210px;
+height: 110%;
+margin-bottom: -10x;
+margin-left: -10px;
+position: fixed;
+}
+
+#Content {
+margin-right: -20px;
+margin-top: -30px;
+margin-left: 200px;
+margin-bottom: -20px;
+background-color: #AEAA6B;
+}
+
+#Content h2{
+text-align: center;  
+padding-top: 25px;
+font-size: 32px;
+}
+
+.imgcontainer{
+   display: inline-block;
+   margin-left: 100px;
+   margin-top: 50px;
+}
+#uppersection {
+  padding-top: 50px;
+}
+
+#lowersection {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#uppersection p{
+  padding-top: 25px;
+  text-align: center;
+  font-size: 18px;
+}
+
+#lowersection p{
+  text-align: center;
+  font-size: 18px;
+
+}
+body main nav {
+margin-top: 50px;
+}
+
+main nav ul a {
+text-decoration: none;
+color: white;
+}
+
+main nav ul {
+list-style-type: none;
+line-height:300%;
+text-align: center;
+margin-left: -50px;
+font-size: 24px;
+
+}
+
+footer{
+height: 50px;
+background-color: #726334;
+margin-bottom: -50px;
+margin-right: -10px;
+}
+
+footer p{
+margin-left: 250px;
+padding-top: 15px;
+color: white;
+}
