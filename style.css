@@ -23,7 +23,7 @@ font-size: 48px;
 }
 
 
-.SideBar
+header .SideBar
 {
 background: #292826;
 margin-top: -200px;
@@ -93,16 +93,16 @@ font-size:18px;
   font-size: 18px;
 
 }
-body main nav {
+header nav {
 margin-top: 50px;
 }
 
-main nav ul a {
+header nav ul a {
 text-decoration: none;
 color: white;
 }
 
-main nav ul {
+header nav ul {
 list-style-type: none;
 line-height:300%;
 text-align: center;
