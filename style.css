@@ -49,6 +49,13 @@ padding-top: 25px;
 font-size: 32px;
 }
 
+#Content #visitor{
+margin-left:465px;
+margin-top:-15px;
+color:white;
+font-size:18px;
+}
+
 .imgcontainer{
    display: inline-block;
    margin-left: 100px;
