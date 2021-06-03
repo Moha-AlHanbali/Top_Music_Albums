@@ -100,7 +100,12 @@ margin-right: -10px;
 }
 
 footer p{
+display: inline;
 margin-left: 250px;
 padding-top: 15px;
 color: white;
+}
+
+footer h6{
+  color: white
 }
