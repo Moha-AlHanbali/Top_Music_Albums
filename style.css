@@ -3,7 +3,7 @@
 background-color: #726334;
 margin-left: 200px;
 margin-top: -50px;
-margin-right: -10px;
+margin-right: -2%;
 height: 150px;
 
 }
@@ -35,8 +35,14 @@ margin-left: -10px;
 position: fixed;
 }
 
+body {
+background-color: #AEAA6B;
+
+}
+
+
 #Content {
-margin-right: -20px;
+margin-right: -2%;
 margin-top: -30px;
 margin-left: 200px;
 margin-bottom: -20px;
@@ -49,18 +55,31 @@ padding-top: 25px;
 font-size: 32px;
 }
 
+#Content #visitor{
+text-align: center;  
+margin-top:-15px;
+color:white;
+font-size:18px;
+}
+
 .imgcontainer{
    display: inline-block;
-   margin-left: 100px;
    margin-top: 50px;
+   text-align: center;
+   margin-left: 5%;
+   margin-right: 5%;
+
 }
 #uppersection {
   padding-top: 50px;
+  text-align: center;
+
 }
 
 #lowersection {
   padding-top: 50px;
   padding-bottom: 50px;
+  text-align: center;
 }
 
 #uppersection p{
@@ -96,7 +115,7 @@ footer{
 height: 50px;
 background-color: #726334;
 margin-bottom: -50px;
-margin-right: -10px;
+margin-right: -2%;
 }
 
 footer p{
