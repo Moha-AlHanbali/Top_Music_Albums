@@ -132,13 +132,14 @@ var visitor_text = document.getElementById("visitor").innerHTML="Are being viewe
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 function first_question (){
-  var music_type  = prompt("Which music genre do you want to learn about, Rock or Classic?")
+
+var music_type  = "";
 
   while (music_type != "Rock" && music_type != "Classic"){
   var music_type  = prompt("Which music genre do you want to learn about, Rock or Classic?")
   }
 }
-first_question()
+first_question();
 
 
 
@@ -146,9 +147,9 @@ first_question()
 
 
 var image_question = function(){
-var image_number = prompt ("How many Rock Music images would you like to see?")
 
 var output = "";
+var image_number = prompt ("How many Rock Music images would you like to see?");
 
 for (i=0 ; i< image_number ; i++){
   if (image_number > 10){
