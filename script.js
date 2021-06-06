@@ -140,17 +140,9 @@ function first_question (){
 }
 first_question()
 
-// function first_question (){
-//   var music_type  = prompt("Which music genre do you want to learn about, Rock or Classic?")
-
-//   while (music_type != "Rock" && music_type != "Classic"){
-//   var music_type  = prompt("Which music genre do you want to learn about, Rock or Classic?")
-//   }
-// }
-// first_question()
-
 
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 
 
 var image_question = function(){
@@ -169,22 +161,5 @@ document.write(output)
 }
 
 image_question();
-
-// var image_question = function(){
-// var image_number = prompt ("How many Rock Music images would you like to see?")
-
-// var output = "";
-
-// for (i=0 ; i< image_number ; i++){
-//   if (image_number > 10){
-//     alert("Please enter a lower number");
-//     var image_number = prompt ("How many Rock Music images would you like to see?");} else{
-
-//   output = output + "<img src='https://image.freepik.com/free-vector/rock-music-forever-poster-with-one-guitar-centre_1284-49237.jpg' width='120' height='120'>"
-// }}
-// document.write(output)
-// }
-
-// image_question();
 
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
