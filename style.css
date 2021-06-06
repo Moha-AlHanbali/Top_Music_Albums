@@ -85,12 +85,12 @@ font-size:18px;
 #uppersection p{
   padding-top: 25px;
   text-align: center;
-  font-size: 18px;
+  font-size: 24px;
 }
 
 #lowersection p{
   text-align: center;
-  font-size: 18px;
+  font-size: 24px;
 
 }
 header nav {
@@ -127,4 +127,11 @@ color: white;
 
 footer h6{
   color: white
+}
+
+
+#visitor_rating{
+  display: inline;
+  text-align: center;
+  margin-left: 50%;
 }
