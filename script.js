@@ -131,7 +131,6 @@ var visitor_text = document.getElementById("visitor").innerHTML="Are being viewe
 // lab07 + lab08 REQ ADDITIONs:
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<<<<<<< HEAD
 function first_question (){
   var music_type  = prompt("Which music genre do you want to learn about, Rock or Classic?")
 
