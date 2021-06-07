@@ -131,6 +131,7 @@ var visitor_text = document.getElementById("visitor").innerHTML="Are being viewe
 // lab07 + lab08 REQ ADDITIONs:
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+/*
 function first_question (){
 
 var music_type  = "";
@@ -138,14 +139,15 @@ var music_type  = "";
   while (music_type != "Rock" && music_type != "Classic"){
   var music_type  = prompt("Which music genre do you want to learn about, Rock or Classic?")
   }
+
 }
 first_question();
-
+*/
 
 
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-
+/*
 var image_question = function(){
 
 var output = "";
@@ -159,9 +161,10 @@ for (i=0 ; i< image_number ; i++){
   output = output + "<img src='https://image.freepik.com/free-vector/rock-music-forever-poster-with-one-guitar-centre_1284-49237.jpg' width='120' height='120'>"
 }}
 document.write(output)
+// console.log(i + "......." + output)
 }
 
 image_question();
-
+*/
 
 // >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
